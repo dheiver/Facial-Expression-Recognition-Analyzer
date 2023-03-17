@@ -1,3 +1,4 @@
 opencv-python
 deepface
 streamlit
+protobuf==3.19.1

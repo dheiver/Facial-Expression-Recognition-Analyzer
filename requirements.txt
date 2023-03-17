@@ -1,6 +1,3 @@
 opencv-python
 deepface
 streamlit
-tensorflow==2.11
-protobuf==3.19.3
-upgrade pip

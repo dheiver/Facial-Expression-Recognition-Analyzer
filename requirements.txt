@@ -1,1 +1,1 @@
-pip install --upgrade click cvlib deepface matplotlib numpy opencv-python-headless protobuf scipy streamlit tensorflow
+
